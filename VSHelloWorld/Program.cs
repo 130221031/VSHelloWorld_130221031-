@@ -22,4 +22,6 @@ namespace VSHelloWorld
                 .UseStartup<Startup>()
                 .Build();
     }
+
+    //Hello
 }
